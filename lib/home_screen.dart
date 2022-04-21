@@ -77,6 +77,7 @@ class _pageUiState extends State<pageUi> {
         }
       },
       child: Scaffold(
+        resizeToAvoidBottomInset: false,
         body: SafeArea(
           child: WebView(
             initialUrl:

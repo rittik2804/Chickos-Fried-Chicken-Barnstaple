@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           ),
         ],
         child: MaterialApp(
-            title: 'Chickos Fried Chicken Barnstaple',
+            title: 'Chicos Fried Chicken Barnstaple',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primarySwatch: Colors.blue,

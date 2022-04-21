@@ -37,7 +37,7 @@ class _splash_screenState extends State<splash_screen> {
         context,
         MaterialPageRoute(
             builder: (context) => const MyHomePage(
-                  title: "Chickos Fried Chicken Barnstaple",
+                  title: "Chicos Fried Chicken Barnstaple",
                 )));
   }
 

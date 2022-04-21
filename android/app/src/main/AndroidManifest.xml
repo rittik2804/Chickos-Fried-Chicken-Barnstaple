@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.chicos">
    <application
-        android:label="Chickos Fried Chicken Barnstaple"
+        android:label="Chico's Fried Chicken Barnstaple"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
